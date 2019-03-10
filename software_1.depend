@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1552220748 source:/Users/TOCHAPARLETTE/Documents/software_1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
